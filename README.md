@@ -1,4 +1,4 @@
-# vue-stock-trader
+# Math Quiz Vue App
 # created using Vue CLI v4.4.6
 
 ## Project setup
